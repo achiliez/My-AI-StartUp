@@ -1,6 +1,6 @@
 # theXtractAI - Intelligent Document Processing
 
-![theXtractAI UI](docs/images/ui_screenshot.png)
+![theXtractAI UI](logistics-ocr-api/docs/images/ui_screenshot.png)
 
 **theXtractAI** is a modern logistics document intelligence platform that uses AWS Textract to instantly extract structured data from Bills of Lading (BoL), invoices, and other shipping documents. It features a React-based frontend for easy drag-and-drop testing and a robust FastAPI backend for seamless API integration.
 
